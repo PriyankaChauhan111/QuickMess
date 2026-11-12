@@ -1,0 +1,6 @@
+{
+  "name": "QuickMess — Campus Pre-Order & Demand Forecasting",
+  "description": "Mobile-first campus mess and canteen pre-ordering platform for DGU Dehradun. Reserve pickup slots, skip 15-25 min queues, vote on daily menus to prevent food wastage, and manage kitchen batch preparation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
